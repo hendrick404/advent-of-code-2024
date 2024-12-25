@@ -1,0 +1,15 @@
+{
+  "originHash" : "891b19a63a910c30cfba6ae0bd27aa95d2791a46d4fde33ace56158bb5b6b4de",
+  "pins" : [
+    {
+      "identity" : "colorizeswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mtynior/ColorizeSwift.git",
+      "state" : {
+        "revision" : "4e7daa138510b77a3cce9f6a31a116f8536347dd",
+        "version" : "1.7.0"
+      }
+    }
+  ],
+  "version" : 3
+}
