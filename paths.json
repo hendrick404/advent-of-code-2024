@@ -45,5 +45,12 @@
             "name": "Swift"
         },
         "path": "day05/Sources/Day5/main.swift"
+    },
+    {
+        "lang": {
+            "identifier": "julia",
+            "name": "Julia"
+        },
+        "path": "day06/main.jl"
     }
 ]
