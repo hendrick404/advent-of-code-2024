@@ -1,0 +1,49 @@
+[
+    {
+        "lang": {
+            "identifier": "python",
+            "name": "Python"
+        },
+        "paths": [
+            "day01/part01.py",
+            "day01/part02.py"
+        ]
+    },
+    {
+        "lang": {
+            "identifier": "python",
+            "name": "Python"
+        },
+        "paths": [
+            "day02/part01.py",
+            "day02/part02.py"
+        ]
+    },
+    {
+        "lang": {
+            "identifier": "python",
+            "name": "Python"
+        },
+        "paths": [
+            "day03/part01.py",
+            "day03/part02.py"
+        ]
+    },
+    {
+        "lang": {
+            "identifier": "python",
+            "name": "Python"
+        },
+        "paths": [
+            "day04/part01.py",
+            "day04/part02.py"
+        ]
+    },
+    {
+        "lang": {
+            "identifier": "swift",
+            "name": "Swift"
+        },
+        "path": "day05/Sources/Day5/main.swift"
+    }
+]
